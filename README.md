@@ -23,7 +23,11 @@ https://user-images.githubusercontent.com/101383058/228319146-d8054a69-80d2-41ed
 Welp, I guess much has been revealed to you via the video, though to reiterate myself 😄
 
 Known Technical Languages:
-Python, Java, JavaScript, C, HTML and CSS
+
+* Python 
+* Java, 
+* JavaScript 
+* C
 
 Known Stacks:
 MongoDB, Node, React, Express, TensorFlow, git, Docker
