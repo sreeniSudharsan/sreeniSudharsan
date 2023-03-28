@@ -1,4 +1,4 @@
-# Hi there 👋
+
 
 <!--
 **sreeniSudharsan/sreeniSudharsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Lights! Camera! Action!
+# Lights! Camera! Action!
 
 https://user-images.githubusercontent.com/101383058/228319146-d8054a69-80d2-41ed-a650-8389c1d17d00.mp4
 
