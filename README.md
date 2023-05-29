@@ -39,4 +39,4 @@ Fun Fact: here are my stats
 
 
 
-[![Sreenivasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeniSudharsan&show_icons=true&theme=synthwave)](https://github.com/sreeniSudharsan/github-readme-stats)
+<!-- [![Sreenivasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeniSudharsan&show_icons=true&theme=synthwave)](https://github.com/sreeniSudharsan/github-readme-stats) -->
